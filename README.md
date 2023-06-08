@@ -2,7 +2,7 @@
 
 CI
 
-Watch my Presentation Here! - https://youtu.be/AtgC_7YuKqY
+Watch my Presentation Here! - [https://youtu.be/AtgC_7YuKqY]
 PDF of Presentation slides are attached
 
 
