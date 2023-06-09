@@ -1,6 +1,6 @@
-# CriticalInfrastructures_HandIn
+# Critical_Infrastructures_HandIn
 
-CI
+Investigating & Interrogating the Cost of Living Poly-Crisis:
 
 Watch my Presentation Here! - [https://youtu.be/LSzz4AWorMs]
 PDF of Presentation slides are attached
